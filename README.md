@@ -1,31 +1,59 @@
-<img src="https://github.com/iamahmed14/iamahmed14/blob/main/myBanner.jpeg?raw=true" />
+<img src="myBanner.jpeg" alt="Muhammad Ahmed – Software Engineer" width="100%" />
 
-<hr />
-
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Software Engineer, just starting out my professional journey!</h3>
+<h2 align="center">Muhammad Ahmed</h2>
+<p align="center"><b>Backend & Integration Engineer</b> · Node.js · TypeScript · Dubai, UAE</p>
 
 <p align="center">
-  :email: mohammadahmed940@gmail.com <br />
-  Linkedin: https://www.linkedin.com/in/iamahmed14/
+  <a href="https://linkedin.com/in/iamahmed14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammadahmed940@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+### About me
 
+I'm a backend engineer with 3+ years building production systems for **Auctane's ShipEngine and ShipStation** shipping platforms, which are used by shipping customers around the world. Most of my work is on carrier integrations. These systems connect with third-party APIs that are often unreliable, and mistakes in them directly affect customs clearance, billing and tracking.
 
+- 🚚 Built **7 carrier integrations from scratch** and contributed to **40+ of the platform's 294 carrier modules**
+- 🔐 Designed a **distributed token-refresh cache with request locking** that removed redundant auth calls under concurrent load. The pattern was later reused for other high-volume carriers
+- 🔄 Built **webhook and SFTP pipelines** for real-time shipment and tracking updates (Ninja Van, Royal Mail, Intersoft)
+- 🧾 Implemented **customs, compliance and billing logic** for Canada Post, DHL, Hermes, Asendia, Deutsche Post and GLS Canada
+- 🛠️ Owned **production incident resolution**, including a durable fix for a recurring DHL eCommerce documents issue after two earlier fix attempts had failed
+
+### Tech stack
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Integrations** &nbsp;
+![REST](https://img.shields.io/badge/REST-555555?style=flat-square)
+![SOAP](https://img.shields.io/badge/SOAP-555555?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-555555?style=flat-square)
+![SFTP](https://img.shields.io/badge/SFTP-555555?style=flat-square)
+
+**Testing & tooling** &nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Automation & AI** &nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+
+### Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Software Developer | BariTechSol, working on Auctane Shipping Products (ShipEngine, ShipEngine Connect, ShipStation) | May 2023 – Mar 2026 |
+| Analyst Software Engineer Intern | Pakistan Single Window (PSW) | Mar 2023 – Apr 2023 |
+
+🎓 **BS Software Engineering**, SZABIST (2018 – 2023)
